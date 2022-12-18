@@ -1,4 +1,5 @@
-onePieceCharLists = ['Shirohige','Ace','Marco','Lucci'];
+onePieceCharLists = ['Shirohige','Ace','Marco','Lucci','Teach'];
+bukuLists = ['Max Havelaar','The History of Tom Jones, a Foundling','Fanny Hill, or Memoirs of a Woman of Pleasure','The Quiet American','All About H. Hatterr','On Earth We\'re Briefly Gorgeous','Apollo\'s Angels: A History of Ballet','Rodham: A Novel','Nimona']
 
 bank2 = [
 ['Kuisku','What is the nickname that Pekalongan City is known for?','Batik City',['Kebaya City','Angklung City','Prehistorical City','Erepsin City']],
@@ -7,4 +8,5 @@ bank2 = [
 ['Kuisku','Which of the following ideas is not based on Darwinian thought?','The increase in the number of organisms is faster than the food supply',['Each population tends to multiply because it is able to reproduce','To breed requires enough food and space','Variation is an inherited trait','Animals within a species compete with each other for food, shelter, and ultimately the ability to reproduce']],
 ['Kuisku','In Kurdish wedding tradition, the \'henna party\' for the bride is held how many days before the wedding?','1 day',['2 days','4 days','7 days','3 days','@["number","day",1,7]']],
 ['Kuisku','One of the form of the needs of human life according to Maslow is','Need for self-actualization',['Court','Trial','School','Economic needs']],
+['Kuisku','Eduard Douwes Dekker reveals the atrocities of the Dutch government in Banten in his book entitled ....','Max Havelaar',['@["Book"]']],
 ];
