@@ -1,4 +1,4 @@
-bankSoal12 = [
+bank8 = [
 ['taksonomi','family','Erythracaridae','order','Trombidiformes'],
 ['taksonomi','species','Pothyne rugifrons','family','Cerambycidae'],
 ['taksonomi','species','Mordella octoguttata','family','Mordellidae'],
